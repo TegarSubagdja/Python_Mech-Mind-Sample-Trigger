@@ -156,7 +156,9 @@ def main():
         trigger_viz()
 
         # Set Branch (optional)
-        # set_branch(5, 2)
+        set_branch(8, 5)
+
+        set_branch(12, 2)
 
         # Set Index (optional)
         # set_index(3, 10)
